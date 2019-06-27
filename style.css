@@ -1,0 +1,38 @@
+.jumbotron {
+    background-image: url("foto11.jpg");
+    background-color: #cccccc;
+   }
+   .sex {
+    background-image: url("yele.jpg");
+    background-color: #cccccc;
+   }
+   .stranger {
+    background-image: url("hey.jpg");
+    background-color: #cccccc;
+   }
+
+
+#parrafoinicial
+{
+font-style: normal;
+color: whitesmoke ;
+}
+
+#tituloinicial
+{
+font-style: oblique;
+color: whitesmoke;
+}
+
+
+#eso
+{
+font-style: normal;
+color: whitesmoke;
+}
+
+
+
+#titulo{
+background-color:    rgb(189, 249, 235); 
+}
